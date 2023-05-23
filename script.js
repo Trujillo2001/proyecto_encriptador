@@ -48,6 +48,9 @@ function btnDesencriptar(){
      
 }
  
+ 
+   
+
  function copiarContent(){
  let contenido = document.querySelector(".mensaje");
  contenido.select();
